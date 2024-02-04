@@ -1,0 +1,3 @@
+# Setup Kubernetes using eksctl
+
+eksctl create cluster --name swiggy-cluster --region ap-south-1 --node-type t2.small --nodes 3 
